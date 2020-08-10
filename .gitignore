@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/bobbin_test.iml
+/.idea/
